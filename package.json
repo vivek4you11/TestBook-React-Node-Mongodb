@@ -1,0 +1,22 @@
+{
+  "name": "testbook",
+  "version": "1.0.0",
+  "description": "mock test paper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek4you11/TestBook-React-Node-Mongodb.git"
+  },
+  "keywords": [
+    "testbook"
+  ],
+  "author": "Vivek Mehta (aws.vivekmehta@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek4you11/TestBook-React-Node-Mongodb/issues"
+  },
+  "homepage": "https://github.com/vivek4you11/TestBook-React-Node-Mongodb#readme"
+}
